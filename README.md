@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Sumudu Mudunayana <br>🚀 Trainee Software Developer | Java | Angular | Spring Boot | MySQL<br>🎓 Currently pursuing a Degree in Software Engineering at SLIIT.<br>🌱 I'm passionate about building full-stack applications and exploring innovative software solutions that make life easier and smarter.<br><br> 📫 Connect with Me <br><br>📧 **mudunayanamihigurathna@gmail.com**  <br>💼 [**LinkedIn**](https://www.linkedin.com/in/sumudu-mudunayana-736a3b313)<br>
+👋 Hi there, I'm Sumudu Mudunayana <br>🚀 Trainee Software Developer | Java | react | Angular | Spring Boot | MySQL<br>🎓 Currently pursuing a Degree in Software Engineering at SLIIT.<br>🌱 I'm passionate about building full-stack applications and exploring innovative software solutions that make life easier and smarter.<br><br> 📫 Connect with Me <br><br>📧 **mudunayanamihigurathna@gmail.com**  <br>💼 [**LinkedIn**](https://www.linkedin.com/in/sumudu-mudunayana-736a3b313)<br>
 
 
 # 💻 Tech Stack:
